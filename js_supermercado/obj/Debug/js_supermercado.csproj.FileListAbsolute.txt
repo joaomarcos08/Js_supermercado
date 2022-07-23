@@ -1,0 +1,12 @@
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\bin\Debug\js_supermercado.exe.config
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\bin\Debug\js_supermercado.exe
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\bin\Debug\js_supermercado.pdb
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.csproj.AssemblyReference.cache
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.Login.resources
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.Properties.Resources.resources
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.csproj.GenerateResource.cache
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.csproj.CoreCompileInputs.cache
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.exe
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.pdb
+C:\Users\SN00091501\source\repos\js_supermercado\js_supermercado\obj\Debug\js_supermercado.ListaProduto.resources
